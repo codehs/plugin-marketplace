@@ -380,7 +380,7 @@
         "sha": "ebf91d3ea64d488277cec939e22e9557bdf1ae89"
       },
       "homepage": "https://bool.com",
-      "keywords": ["bool", "build a bool app"],
+      "keywords": ["build a bool app", "bool app builder", "deploy with bool", "remix a bool"],
       "domains": ["bool.com"]
     }
   ]
