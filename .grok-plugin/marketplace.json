@@ -369,6 +369,19 @@
       "homepage": "https://enrichlabs.ai",
       "keywords": ["helena", "enrich labs", "helena ai marketer", "helena marketing ai agent", "helena autonomous marketer", "helena marketing"],
       "domains": ["enrichlabs.ai", "agent.enrichlabs.ai"]
+    },
+    {
+      "name": "bool",
+      "description": "Build and publish full-stack web apps with Bool. Connects to Bool's hosted MCP so agents can create a project, run builds, and deploy it live.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/codehs/bool-cursor-plugin.git",
+        "sha": "ebf91d3ea64d488277cec939e22e9557bdf1ae89"
+      },
+      "homepage": "https://bool.com",
+      "keywords": ["bool", "build a bool app"],
+      "domains": ["bool.com"]
     }
   ]
 }

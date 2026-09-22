@@ -71,6 +71,24 @@
         ]
       }
     },
+    "bool": {
+      "sha": "ebf91d3ea64d488277cec939e22e9557bdf1ae89",
+      "version": "0.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "bool",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "bool",
+            "description": "Use when creating, listing, building, publishing, remixing, or managing Bool apps and projects. Also use when the user…"
+          }
+        ]
+      }
+    },
     "browser-use": {
       "sha": "4749bcbfe456e5384b98281a8a66119352197f59",
       "version": "0.1.0",
