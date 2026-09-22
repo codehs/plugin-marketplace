@@ -377,7 +377,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/codehs/bool-cursor-plugin.git",
-        "sha": "ebf91d3ea64d488277cec939e22e9557bdf1ae89"
+        "sha": "0dbd58ddcc559d1c65a092e1ea6a54778481658c"
       },
       "homepage": "https://bool.com",
       "keywords": ["build a bool app", "bool app builder", "deploy with bool", "remix a bool"],

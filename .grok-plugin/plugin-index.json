@@ -72,7 +72,7 @@
       }
     },
     "bool": {
-      "sha": "ebf91d3ea64d488277cec939e22e9557bdf1ae89",
+      "sha": "0dbd58ddcc559d1c65a092e1ea6a54778481658c",
       "version": "0.1.0",
       "components": {
         "mcpServers": [
