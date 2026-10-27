@@ -481,7 +481,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/codehs/bool-plugin.git",
-        "sha": "ef1fdd65703945fadcc6e4510ae178d024009ca8"
+        "sha": "bc5a4d517c8f3c16af48e58f9fcd067938c6855f"
       },
       "homepage": "https://bool.com",
       "keywords": ["build a bool app", "bool app builder", "deploy with bool", "remix a bool"],
